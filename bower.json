@@ -1,0 +1,25 @@
+{
+  "name": "import-path-bug",
+  "homepage": "https://github.com/DarkSideOfMo0n/import-path-bug",
+  "description": "The repo reproduces an polymer bug.",
+  "main": "index.html",
+  "keywords": [
+    "polymer",
+    "bug"
+  ],
+  "authors": [
+    "Pascal Laier"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "^2.3.1"
+  }
+}
